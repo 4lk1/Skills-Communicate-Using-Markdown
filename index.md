@@ -36,7 +36,17 @@ int main() {
 }
 ```
 
+## -- Make a task list --
+
+- [x]  Sleep
+- [x]  Code
+- [ ]  Eat
+- [ ]  Repeat 
+
+
+
 ###### "It is not titles that honor men, but men that honor titles." - Niccolò Machiavelli
+
 
 
 
